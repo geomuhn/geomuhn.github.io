@@ -1,20 +1,29 @@
----
-title: Home
----
+# About Me
 
-# Home
+## Contact Info
 
-## Introduction
+Email: geomuhn@gmail.com
 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## Education 
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+**High School**
+Shadow Mountain High School
+
+**Undergraduate**
+Engineering (Robotics)
+Arizona State University - Polytechnic
+Ira A. Fulton School of Engineering 
+May 2021
+
+**Graduate**
+Robotics and Autonomous systems (MS)
+Arizona State University - Polytechnic
+Ira A. Fulton School of Engineering 
+Mary 2021
 
 ## Background
 
