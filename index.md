@@ -10,16 +10,16 @@ _Italic Text_
 
 ## Education 
 
-**High School**
+**High School**  
 Shadow Mountain High School
 
-**Undergraduate**
+**Undergraduate**  
 Engineering (Robotics)
 Arizona State University - Polytechnic
 Ira A. Fulton School of Engineering 
 May 2021
 
-**Graduate**
+**Graduate**  
 Robotics and Autonomous systems (MS)
 Arizona State University - Polytechnic
 Ira A. Fulton School of Engineering 
