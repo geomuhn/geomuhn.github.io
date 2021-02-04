@@ -25,21 +25,16 @@ Arizona State University - Polytechnic
 Ira A. Fulton School of Engineering   
 Mary 2021  
 
-## Background
+## Experience
 
 [link to background](/background)
 
-## Results
+# Job Experience
+
+# Projects
 
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
