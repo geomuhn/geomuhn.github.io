@@ -11,19 +11,19 @@ _Italic Text_
 ## Education 
 
 **High School**  
-Shadow Mountain High School
+Shadow Mountain High School  
 
 **Undergraduate**  
 Engineering (Robotics)
-Arizona State University - Polytechnic
-Ira A. Fulton School of Engineering 
+Arizona State University - Polytechnic  
+Ira A. Fulton School of Engineering   
 May 2021
 
 **Graduate**  
 Robotics and Autonomous systems (MS)
-Arizona State University - Polytechnic
-Ira A. Fulton School of Engineering 
-Mary 2021
+Arizona State University - Polytechnic  
+Ira A. Fulton School of Engineering   
+Mary 2021  
 
 ## Background
 
