@@ -1,5 +1,4 @@
 # About Me
-![IMG_5889](images/IMG_5889.JPG)
 
 ## Contact Info
 
