@@ -1,5 +1,5 @@
 # About Me
-![IMG_5889](https://user-images.githubusercontent.com/44282724/106854563-c577bf00-6678-11eb-84b4-d48e784e6ca6.JPG | width=100)
+![IMG_5889](https://user-images.githubusercontent.com/44282724/106854563-c577bf00-6678-11eb-84b4-d48e784e6ca6.JPG =250x250)
 
 ## Contact Info
 
