@@ -4,9 +4,7 @@
 
 Email: geomuhn@gmail.com
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+[Take a look at my Paper Resume!](/GMuhn_Resume2021.pdf)
 
 ## Education 
 
